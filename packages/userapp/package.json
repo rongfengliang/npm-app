@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "userlogin": "^0.0.0"
   }
 }
