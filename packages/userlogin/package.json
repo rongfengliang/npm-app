@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "shortid": "^2.2.15"
-  }
+  },
+  "gitHead": "f2a38a78e7e55868a0375af87ad86f01c5642f33"
 }
