@@ -1,6 +1,6 @@
 {
   "name": "userapp",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "> TODO: description",
   "author": "rong <1141591465@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "shortid": "^2.2.15",
-    "userlogin": "^0.2.1"
+    "userlogin": "^0.2.2"
   },
   "gitHead": "fda3d853ec643dd786c15e30c5cf02d127014642"
 }
