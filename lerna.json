@@ -5,5 +5,16 @@
   "version": "0.2.3",
   "publishConfig": {
     "registry": "http://localhost:4873/"
+  },
+  "command": {
+    "publish": {
+      "ignoreChanges": ["ignored-file", "*.md"],
+      "message": "chore(release): publish",
+      "registry": "http://localhost:4873/"
+    },
+    "bootstrap": {
+      "ignore": "component-*",
+      "npmClientArgs": ["--no-package-lock"]
+    }
   }
 }
